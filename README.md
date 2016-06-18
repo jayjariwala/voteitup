@@ -1,3 +1,4 @@
-The OpenShift `jbossas` cartridge documentation can be found at:
+The working live application can be found at: 
+voteplus-jayjariwala.rhcloud.com
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#jbossas
+Feel free to contribute .. :) Thanks 
